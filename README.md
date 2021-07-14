@@ -1,2 +1,2 @@
 # Python
-the top of the tower have stars of the night
+The top of the tower have the stars of the night
